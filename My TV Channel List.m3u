@@ -1,0 +1,503 @@
+#EXTM3U
+
+#EXTINF:-1 ,STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" , Star Plus
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+
+#EXTINF:-1 ,Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" , Star Plus HD
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+
+#EXTINF:-1 ,SONY HD
+http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 ,Sony SD
+http://ahaohoo.com/.1/tv1/play.php?id=2690&e=.m3u8
+
+#EXTINF:-1 ,Sony TV HD
+http://watchindia.net:8880/live/33253/72963/1969.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" , Sony TV HD 2
+http://watchindia.net:8880/live/33253/72963/2141.m3u8
+#EXTINF:-1 ,Sony TV HD UK
+http://watchindia.net:8880/live/60275/20486/2117.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" , Sony TV HD UK
+http://watchindia.net:8880/live/33253/72963/2117.m3u8
+
+#EXTINF:-1 ,Colors TV HD
+http://watchindia.net:8880/live/60275/20486/801.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" , Colors TV HD
+http://watchindia.net:8880/live/33253/72963/801.m3u8
+#EXTINF:-1 ,Colors TV HD 2
+http://watchindia.net:8880/live/60275/20486/2264.m3u8
+#EXTINF:-1 ,Colors TV HD UK
+http://watchindia.net:8880/live/60275/20486/2187.m3u8
+#EXTINF:-1 ,& TV HD
+http://watchindia.net:8880/live/33253/72963/782.m3u8
+#EXTINF:-1 ,Colors Rishtey 2
+http://ahaohoo.com/.1/tv1/play.php?id=2682&e=.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Colors_Rishtey_Asia.png" , Colors Rishtey Asia
+http://watchindia.net:8880/live/33253/72963/830.m3u8
+#EXTINF:-1 ,RISHTEY
+http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
+#EXTINF:-2 group-title="Entertainment", ,& Flix HD
+http://watchindia.net:8880/live/33253/72963/2088.m3u8
+#EXTINF:-2 ,& Flix HD
+http://watchindia.net:8880/live/60275/20486/2088.m3u8
+#EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2016/09/01/Sony%20SAB%20HD%20Logo-01.jpg?itok=GWfXqKuG" , SONY-SAB HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 ,Sony LIV
+http://watchindia.net:8880/live/33253/72963/1758.ts?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 ,SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Sab
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+#EXTINF:-1 ,Sony Sab HD
+http://ahaohoo.com/.1/tv1/play.php?id=2692&e=.m3u8
+#EXTINF:-1 ,Sony Sab UK
+http://watchindia.net:8880/live/33253/72963/2189.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" , Star Bharat
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" , Star Bharat
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
+#EXTINF:-1 ,Star Bharat HD
+http://watchindia.net:8880/live/33253/72963/780.m3u8
+#EXTINF:-1 ,STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV_HD.png" , Zee TV HD USA
+http://watchindia.net:8880/live/33253/72963/1971.m3u8
+#EXTINF:-1 ,ZEE TV HD
+http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures SD
+http://103.205.133.18/hls/andpicture.m3u8
+#EXTINF:-2 tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" , &xplor HD
+http://watchindia.net:8880/live/33253/72963/2204.m3u8
+
+#EXTINF:-2 ,& Pictures HD
+http://watchindia.net:8880/live/33253/72963/783.m3u8
+#EXTINF:-2 ,& Pictures
+http://watchindia.net:8880/live/60275/20486/818.m3u8
+#EXTINF:-2 ,COLORS CINEPLEX HD
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-2 ,Cinemax
+http://watchindia.net:8880/live/60275/20486/2065.m3u8
+#EXTINF:-2 tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" , Cineplex HD
+http://watchindia.net:8880/live/33253/72963/803.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
+http://103.81.104.118/hls/colorscineplex.m3u8
+#EXTINF:-1 ,Rishtey Cineplex
+http://ahaohoo.com/.1/tv1/play.php?id=2686&e=.m3u8
+
+#EXTINF:- ,STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" , Star Gold 2 4K
+http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star Gold HD
+http://jupiter.bdcabletv.com/ENC-10/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star Gold HD
+http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1 ,Star Gold India HD
+http://watchindia.net:8880/live/60275/20486/785.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://watchindia.net:8880/live/33253/72963/784.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" , Zee Cinema HD
+http://103.81.104.118/hls/zeecinemahd.m3u8
+#EXTINF:-1 ,Zee Cinema HD
+http://watchindia.net:8880/live/33253/72963/787.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" , UTV Action
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/UTV_Action.png" , UTV Action
+http://watchindia.net:8880/live/33253/72963/805.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/UTV_HD.png" , UTV HD
+http://watchindia.net:8880/live/33253/72963/811.m3u8
+#EXTINF:-1 ,UTV MOVIES
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1 ,ZEE ANMOL
+http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE BOLLYWOOD
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
+#EXTINF:-2 ,B4U Movies
+http://ahaohoo.com/.1/tv1/play.php?id=2750&e=.m3u8
+
+#EXTINF:-1 ,BIG MAGIC
+http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Action
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" , Zee Action
+http://watchindia.net:8880/live/33253/72963/821.m3u8
+#EXTINF:-1 ,Zee Anmol Cinema
+http://watchindia.net:8880/live/60275/20486/820.m3u8
+#EXTINF:-1 ,Zee Bollywood
+http://watchindia.net:8880/live/60275/20486/822.m3u8
+
+#EXTINF:-1 ,Zee Classic
+http://watchindia.net:8880/live/33253/72963/802.m3u8
+
+#EXTINF:-1 ,Sony Max 2
+http://ahaohoo.com/.1/tv1/play.php?id=2697&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" , Sony Max HD
+http://103.81.104.118/hls/sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" , Sony Max HD
+http://watchindia.net:8880/live/33253/72963/788.m3u8
+#EXTINF:-1 ,Sony Max HD 2
+http://ahaohoo.com/.1/tv1/play.php?id=2695&e=.m3u8
+#EXTINF:-2 ,MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" , SONY-MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Pal
+http://watchindia.net:8880/live/33253/72963/812.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" , Sony BBC Earth HD
+http://watchindia.net:8880/live/33253/72963/789.m3u8
+#EXTINF:-1 ,TLC
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 ,TLC HD
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" , TLC Hindi
+http://watchindia.net:8880/live/33253/72963/840.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" , TLC SD Hindi
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:-1 ,TNT
+http://watchindia.net:8880/live/60275/20486/2051.m3u8
+#EXTINF:-1 ,TRAVEL CHANNEL HD
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" , TravelXP HD
+http://watchindia.net:8880/live/33253/72963/792.m3u8
+#EXTINF:-4 ,Nat GEO Wild HD JP
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-4 tvg-logo="https://watchindia.net/images/channels/hindi/Epic_HD.png" , Epic HD
+http://watchindia.net:8880/live/33253/72963/794.m3u8
+#EXTINF:-4 ,FOOD NETWORK HD
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+#EXTINF:-4 ,FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-4 ,FX
+http://watchindia.net:8880/live/60275/20486/2136.m3u8
+#EXTINF:-4 tvg-logo="https://imgur.com/2xNwdMi.png" , FX HD
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-4 ,Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-4 ,National Geographic
+http://ahaohoo.com/.1/tv1/play.php?id=2817&e=.m3u8
+#EXTINF:-4 tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" , National Geographic HD
+http://watchindia.net:8880/live/33253/72963/790.m3u8
+#EXTINF:-4 tvg-logo="https://i.imgur.com/m7Cl2M9.png" , National Geographic HD Hindi
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
+#EXTINF:-4 ,DISCOVERY HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-4 ,DISCOVERY SCIENCE
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-4 ,Discovery Channel
+http://watchindia.net:8880/live/60275/20486/2036.m3u8
+#EXTINF:-4 tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" , Discovery Channel Hindi
+http://watchindia.net:8880/live/33253/72963/841.m3u8
+#EXTINF:-4 tvg-logo="https://i.imgur.com/2DxwN2m.png" , Discovery Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:-4 ,HISTORY 2 CHANNEL HD
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-4 ,HISTORY CHANNEL HD
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-4 tvg-logo="https://i.imgur.com/5OzuEyR.png" , History Channel
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-4 ,History TV HD
+http://watchindia.net:8880/live/60275/20486/791.m3u8
+#EXTINF:-4 ,LOVE NATURE 4K
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+#EXTINF:-4 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-4 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-4 tvg-logo="https://i.imgur.com/XBz4I65.png" , Discovery Science English
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-4 tvg-logo="https://i.imgur.com/6uHly3s.png" , Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-4 tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_World_HD.png" , Discovery World HD
+http://watchindia.net:8880/live/33253/72963/793.m3u8
+#EXTINF:-4 ,ANIMAL PLANET HD
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#EXTINF:-4 ,Animal Planet
+http://watchindia.net:8880/live/60275/20486/2039.m3u8
+#EXTINF:-4 tvg-logo="https://i.imgur.com/ti0gJR2.png" , Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+
+#EXTINF:-1 ,Animax HD
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/dYLwOJA.png" , CN HD+
+http://jupiter.bdcabletv.com/ENC-18/video.m3u8
+#EXTINF:-7 ,Cartoon Network
+http://watchindia.net:8880/live/60275/20486/2052.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/Om9inz6.png" , Cartoon Network English
+http://103.81.104.118/hls/cn.m3u8
+#EXTINF:-7 ,DISNEY CHANNEL
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-7 ,DISNEY HD INTERNATIONAL
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+#EXTINF:-7 ,DISNEY JUNIOR
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" , Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+#EXTINF:-7 tvg-logo="https://imgur.com/NmBF00q.png" , Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-7 ,Disney Channel
+http://watchindia.net:8880/live/60275/20486/2046.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" , Disney Hind
+http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" , Disney Hindi
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-7 ,Disney Jr.
+http://watchindia.net:8880/live/60275/20486/2105.m3u8
+#EXTINF:-7 ,Disney XD
+http://watchindia.net:8880/live/60275/20486/2066.m3u8
+#EXTINF:-7 ,MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Marvel_HQ_logo.jpg/240px-Marvel_HQ_logo.jpg" , Marvel Hq
+https://feed.play.mv/live/10005200/niZoVrR2vD/1.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" , Nick
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick
+http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+#EXTINF:-7 tvg-logo="https://watchindia.net/images/channels/hindi/Nick_HD_Plus.png" , Nick HD Plus
+http://watchindia.net:8880/live/33253/72963/2237.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" , Sonic Nickeloden
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick HD+
+http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+#EXTINF:-7 tvg-logo="https://watchindia.net/images/channels/Nick.png" , Nick Hindi
+http://watchindia.net:8880/live/33253/72963/2182.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/chT8xP5.png" , Nick JR.
+http://jupiter.bdcabletv.com/ENC-5/video.m3u8
+#EXTINF:-7 ,Nickelodeon
+http://watchindia.net:8880/live/60275/20486/2049.m3u8
+#EXTINF:-7 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+
+#EXTINF:-1 ,TEN2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 ,TEN3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8#EXTINF:-3 ,ESPN
+http://watchindia.net:8880/live/60275/20486/2161.m3u8
+#EXTINF:-1 ,SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" , Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
+#EXTINF:-1 ,Sky Sports Cricket 2
+http://watchindia.net:8880/live/60275/20486/2143.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" , Star Sports 1 HD
+http://103.81.104.118/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" , Star Sports 1 HD 1
+http://watchindia.net:8880/live/33253/72963/808.m3u8
+#EXTINF:-1 ,Star Sports 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2162.m3u8
+#EXTINF:-1 ,Star Sports 1 HD 4
+http://watchindia.net:8880/live/60275/20486/2232.m3u8
+#EXTINF:-1 ,Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/60275/20486/1072.m3u8
+#EXTINF:-1 ,Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/60275/20486/2167.m3u8
+#EXTINF:-1 ,Star Sports 1 HD Hindi JP
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" , Star Sports 2
+http://jupiter.bdcabletv.com/ENC-4/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" , Star Sports 2
+http://103.81.104.118/hls/starsports2.m3u8
+#EXTINF:-1 ,Star Sports 2 HD 2
+http://watchindia.net:8880/live/60275/20486/2163.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" , Star Sports Select 1 HD
+http://watchindia.net:8880/live/60275/20486/1070.m3u8
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://watchindia.net:8880/live/60275/20486/1071.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" , Star Sports Select 2 HD
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" , Sony Six
+http://jupiter.bdcabletv.com/SonySix/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" , Sony Six HD
+http://137.59.155.77:8088/hls/05sonysix.m3u8
+#EXTINF:-1 ,Sony Six HD 1
+http://watchindia.net:8880/live/60275/20486/1763.m3u8
+#EXTINF:-1 ,Sony Six HD 2
+http://watchindia.net:8880/live/60275/20486/2144.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" , Sony Ten 1
+http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" , Sony Ten 1 HD
+http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD 1
+http://watchindia.net:8880/live/60275/20486/1756.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2215.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" , Sony Ten 2
+http://jupiter.bdcabletv.com/ENC-7/video.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://watchindia.net:8880/live/60275/20486/1757.m3u8
+#EXTINF:-1 ,Sony Ten 3 HD
+http://watchindia.net:8880/live/60275/20486/1758.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" , Sony ten 2
+http://jupiter.bdcabletv.com/ENC-7/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
+http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
+#EXTINF:-1 ,Ten Sports
+http://watchindia.net:8880/live/60275/20486/1068.m3u8
+#EXTINF:-1 ,Zoom
+http://watchindia.net:8880/live/60275/20486/842.m3u8
+#EXTINF:-1 ,Zoom
+http://watchindia.net:8880/live/33253/72963/842.m3u8
+#EXTINF:-10 tvg-logo="https://i.imgur.com/RCKpn0U.png" , 9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-10 ,9XM
+http://ahaohoo.com/.1/tv1/play.php?id=2756&e=.m3u8
+#EXTINF:-10 ,B4U MUSIC
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-10 ,Channel V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-hd-logo-300x300.jpg" , MTV Beats HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-hd-logo-300x300.jpg" , MTV Beats HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" , MTV Beats HD
+http://watchindia.net:8880/live/33253/72963/786.m3u8
+
+#EXTINF:-1 ,MTV_BEATS_HD
+http://143.244.60.10/HINDI__MTV_BEATS_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 ,MTV BEATS HD
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,MTV Beats HD
+http://watchindia.net:8880/live/60275/20486/786.m3u8
+
+#EXTINF:-10 ,MTV BEATS HD
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-10 tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" , MTV Hindi
+http://watchindia.net:8880/live/33253/72963/825.m3u8
+
+#EXTINF:-10 ,MUSIC INDIA
+http://indo51.gcdn.co/hindi-MUSICINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-10 tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" , Kadak Hits HD
+http://watchindia.net:8880/live/33253/72963/798.m3u8
+#EXTINF:-4 ,M Tunes +
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-10 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" , Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-10 tvg-logo="https://i.imgur.com/MkFsM39.png" , Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 ,VH1
+http://watchindia.net:8880/live/60275/20486/2185.m3u8
+
+#EXTINF:-1 ,Aaj Tak HD
+http://watchindia.net:8880/live/60275/20486/807.m3u8
+#EXTINF:-3 tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_Profit.png" , NDTV Profit
+http://watchindia.net:8880/live/33253/72963/837.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" , Wion News
+http://watchindia.net:8880/live/33253/72963/816.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" , Zee Bolywood
+http://watchindia.net:8880/live/33253/72963/822.m3u8
+#EXTINF:-1 ,Zee Cafe HD
+http://ahaohoo.com/.1/tv1/play.php?id=2720&e=.m3u8
+#EXTINF:-1 ,Zee Cafe HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-2 tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" , & Prive HD
+http://watchindia.net:8880/live/33253/72963/2103.m3u8
+
+#EXTINF:-2 ,&flix HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,WB
+http://ahaohoo.com/.1/tv1/play.php?id=2306&e=.m3u8
+#EXTINF:-2 tvg-logo="https://imgur.com/BNaXQWX.png" , Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" , STAR-MOVIES-HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-2 ,Movies Now HD
+http://ahaohoo.com/.1/tv1/play.php?id=2307&e=.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" , Romedy Now
+http://watchindia.net:8880/live/33253/72963/2188.m3u8
+#EXTINF:-1 ,Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png" , Star World HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" , Star movies select hd
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" , Star Movies HD
+http://watchindia.net:8880/live/33253/72963/2080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" , Star Movies HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" , Star Movies Select HD
+http://jupiter.bdcabletv.com/ENC-17/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" , Star Movies Select HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" , Sony Pix HD
+http://103.81.104.118/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" , Sony Pix HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
+#EXTINF:-2 ,AMC
+http://watchindia.net:8880/live/60275/20486/2043.m3u8
+
+
+#EXTINF:-8 tvg-logo="https://i.imgur.com/69pCK1u.png" , AXN
+http://103.81.104.118/hls/axn.m3u8
+
+#EXTINF:-8 ,AXN HD
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+
+#EXTINF:-8,AXN New
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-2 ,BET
+http://watchindia.net:8880/live/60275/20486/2063.m3u8
+#EXTINF:-2 ,Fox Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-2 ,HBO
+http://watchindia.net:8880/live/33253/72963/2081.m3u8
+#EXTINF:-2 ,HBO
+http://watchindia.net:8880/live/60275/20486/2081.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/L8LTymM.jpg" , HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-2 ,HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-2 tvg-logo="https://nettv.com.np/storage/app/uploads/public/5da/558/fae/5da558fae6acf376045704.jpg" , Colors Infinity HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+#EXTINF:-6 ,Comedy Central
+http://watchindia.net:8880/live/60275/20486/2056.m3u8
+
+
+
+
+
+
+
